@@ -1,7 +1,7 @@
 # Chocolate chip cookies
 
 ## Ingredients
-- 2 cups of flour (pastry or cake flour is best)
+- 2 cups plus 1 tbsp of flour (pastry or cake flour is best)
 - 1 tsp salt
 - 3/4 tsp baking soda
 - 2 sticks of unsalted butter (i.e. 1 cup)
