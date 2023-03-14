@@ -11,6 +11,7 @@
 - 1 cup dark chocolate chips or chunks (add another 1/4 to 1/3 cup if you love chocolate)
 
 ## Recipe
+1. Pre-heat to 375
 1. Combine flour, salt, baking soda
 1. Cream butter & sugar until light and fluffy
 1. Add eggs one at a time, then vanilla extract
