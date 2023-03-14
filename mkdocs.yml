@@ -1,0 +1,24 @@
+site_name: p4a.net
+extra:
+  homepage: https://p4a.net
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/seajoshc
+    - icon: fontawesome/brands/linkedin 
+      link: https://linkedin.com/in/seajoshc
+plugins:
+  - search
+theme:
+  name: material
+  icon:
+    logo: fontawesome/regular/floppy-disk
+  palette:
+    scheme: slate
+    primary: blue grey
+    accent: teal
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
