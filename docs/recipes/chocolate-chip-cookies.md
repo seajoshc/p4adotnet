@@ -1,15 +1,14 @@
 # Chocolate chip cookies
 
 ## Ingredients
-- 2 cups of pastry/cake flour
+- 2 cups of flour (pastry or cake flour is best)
 - 1 tsp salt
 - 3/4 tsp baking soda
-- 2 sticks of unsalted butter (1 cup)
-- 1/2 cup white sugar
-- 1 cup of dark brown sugar
+- 2 sticks of unsalted butter (i.e. 1 cup)
+- 1 1/2 cup of (dark) brown sugar
 - 2 eggs
 - 1 tsp vanilla extract
-- 1 1/3 cup dark chocolate chips or chunks
+- 1 cup dark chocolate chips or chunks (add another 1/4 to 1/3 cup if you love chocolate)
 
 ## Recipe
 1. 375
