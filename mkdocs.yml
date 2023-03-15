@@ -10,8 +10,9 @@ plugins:
   - search
 theme:
   name: material
+  favicon: images/user-astronaut-solid.svg
   icon:
-    logo: fontawesome/regular/floppy-disk
+    logo: fontawesome/solid/user-astronaut
   palette:
     scheme: slate
     primary: blue grey
