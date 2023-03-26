@@ -1,4 +1,4 @@
-# ChatGPT-4 Prompts for AI Product Manager
+# GPT-4 AI Product Manager
 
 For now using this as a scratchpad and log for my ChatGPT-4 AI Product Manager.
 
