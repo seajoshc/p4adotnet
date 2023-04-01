@@ -1,4 +1,4 @@
-# GPT-4 AI Product Manager
+# Prompt Engineering - AI PM
 
 For now using this as a prompt scratchpad and partial log for my ChatGPT-4 AI Product Manager partner. This is game changing!
 
