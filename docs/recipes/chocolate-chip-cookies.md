@@ -14,7 +14,7 @@ Bakes 18 large cookies or 24 regular cookies
 - 1 and 1/3 cup dark chocolate chips or chunks
 
 ## Recipe
-1. Combine flour, salt, baking soda with a whisk
+1. Combine flour, salt, baking soda with a whisk.
 1. Cream butter & sugar using a mixer until light and fluffy.
 1. Add eggs one at a time, then vanilla extract.
 1. Fold in chocolate with a wooden spoon.
