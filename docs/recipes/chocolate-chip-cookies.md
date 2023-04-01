@@ -14,10 +14,11 @@ Bakes 18 large cookies or 24 regular cookies
 - 1 and 1/3 cup dark chocolate chips or chunks
 
 ## Recipe
-1. Combine flour, salt, baking soda with a whisk.
-1. Cream butter & sugar using a mixer until light and fluffy.
-1. Add eggs one at a time, then vanilla extract.
-1. Fold in chocolate with a wooden spoon.
+1. Combine flour, salt, baking soda with a whisk in medium bowl.
+1. Cream butter & sugar using a mixer until light and fluffy in a large bowl.
+1. Mix the eggs one at a time into the butter & sugar. Then mix in the vanilla extract.
+1. Mix the dry ingredients into the egg/butter/sugar mixture. Slowly add the flour mixture in, about 1/3 the bowl at a time as you combine.
+1. Fold in the chocolate chips with a wooden spoon.
 1. Chill the dough for ~20min in the freezer, it will be too sticky to work with warm. Pre-heat the oven to 375F as the dough is chilling.
 1. Grease a large baking sheet (I use Pam) just before you pull the dough out of the freezer. A standard baking sheet is fine you will just have more batches to bake :) 
 1. Fill your large baking sheet with 9 big hunks of dough and flatten them out slightly so its more of a disc and less of a ball. Bake them 11-12min. Or if you prefer regular sized cookies (i.e. 12 on a sheet), you will want to bake them closer to 9-10min. Keep an eye towards the end, ideally you want to pull them out when they are getting brown, and starting to firm, on the edges but slightly underdone in the middle still (this is the secret).
