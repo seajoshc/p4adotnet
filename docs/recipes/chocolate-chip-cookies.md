@@ -24,4 +24,4 @@ Bakes 18 large cookies or 24 regular cookies
 1. Fill your large baking sheet with 9 big hunks of dough and flatten them out slightly so its more of a disc and less of a ball. Bake them 11-12min. Or if you prefer regular sized cookies (i.e. 12 on a sheet), you will want to bake them closer to 9-10min. Keep an eye towards the end, ideally you want to pull them out when they are getting brown, and starting to firm, on the edges but slightly underdone in the middle still (this is the secret).
 1. Leave them on the pan another 5 min, then transfer them to a wire rack to cool another 30 min at least.
 
-They are fantastic the next day if you can wait that long.
+They hold up well for several days if kept air tight.
