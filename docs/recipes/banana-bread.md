@@ -18,7 +18,7 @@ See also [pumpkin bread](./pumpkin-bread.md)
 ## Recipe
 1. Pre-heat oven to 350F
 1. Grease a loaf pan with butter, I recommend [one of these](https://www.amazon.com/gp/product/B0029JQEIC)
-1. Whisk together the flour, salt, baking powder, and sugar in a medium bowl
+1. Whisk together the flour, salt, baking powder, sugar, nutmeg, and cinnamon in a medium bowl
 1. Mash the bananas in a large bowl using a fork, potato masher, your hands, etc. until smooth
 1. Mix the butter into the bananas until the butter is all broken up into little bits and the mixtue is chunky but smooth
 1. Mix the eggs and vanilla into the bananas butter mixture until well combined
