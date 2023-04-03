@@ -24,3 +24,9 @@ Anything that prevents developers from smoothly using your platform, whether a f
 
 Platform products require customer empathy, product ownership and intelligent measurement, just like other kinds of product.
 
+[Users] need to appreciate it, understand it and be aware of its features.
+
+You have access to lots of feedback/communication internally, use it but also be ready for a lot of blunt/candid feedback. Harness your champions, encourage them to evangelize and always have a group of champions on your side you meet with regularly. You still need a roadmap and need to communicate it. Don't forget to market internally as well, just as important for awareness.
+
+Maintaining goodwill and trust is key to adoption and continued usage.
+
