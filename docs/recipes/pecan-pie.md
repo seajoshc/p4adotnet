@@ -33,4 +33,4 @@
 1. Cool for at least 30 minutes.
 1. Now the hard part. You can serve it warm, buttttt it tastes best if you refrigerate about two hours and then bring it back to room temperature before serving. Enjoying with cool whip, ice cream, and/or friends is highly recommended as well.
 
-![Picture of a delicious looking pecan pie](https://raw.githubusercontent.com/seajoshc/seajoshc/main/blog/assets/pecan-pie.jpg)
+![Picture of a delicious looking pecan pie](../assets/pecan-pie.jpg)
