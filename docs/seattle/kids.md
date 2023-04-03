@@ -1,6 +1,7 @@
 # Things to do with kids
 
-[Seattle Parks & Rec](https://www.seattle.gov/parks)
+- [Seattle Parks & Rec](https://www.seattle.gov/parks)
+- [PEPS List](https://www.peps.org/ParentResources/by-topic/activities/seattle-activities) lots of good stuff in here
 
 ## Indoors
 
