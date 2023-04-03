@@ -12,10 +12,17 @@
 - South center mall
 - Bellevue mall
 - [Indoor tot gyms](https://www.seattle.gov/parks/find/toddler-indoor-play-areas) Seattle parks & rec
+- Space Needle
 
 ## Outdoors
 
 - Lake Sammamish State Park
+- Arboretum, South Seattle college and by UW
+- West Seattle Stadium bike riding and walking
+- Pretty much any community center playground, like Highpoint
+- Alki beach
+- Seatle Center
+- Water taxi across the sound to downtown
 
 ## Snow
 
