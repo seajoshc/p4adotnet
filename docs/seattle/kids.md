@@ -23,6 +23,7 @@
 - Alki beach
 - Seatle Center
 - Water taxi across the sound to downtown
+- [White Center bike playground](https://kingcountyparks.org/2016/10/03/bike-playground-dick-thurnau-memorial-park/) Dick Thornau Memorial Park
 
 ## Snow
 
