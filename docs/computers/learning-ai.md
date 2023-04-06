@@ -6,6 +6,7 @@ TODO:
 - [In progress - course 3] [Practical Deep Learning for Coders](https://course.fast.ai/) and [the Jupyter notebook based book](https://nbviewer.org/github/fastai/fastbook/tree/master)
 - [ ] Learn about [Huggingface](https://huggingface.co/course/chapter1/1)
 - [ ] Try [the fastAPI Docker example](https://www.docker.com/blog/build-machine-learning-apps-with-hugging-faces-docker-spaces/)
+- [ ] https://karpathy.ai/zero-to-hero.html
 
 ## Notes
 Model is a neural network function.
