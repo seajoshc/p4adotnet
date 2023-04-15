@@ -10,6 +10,8 @@ Gatekeep your alpha/beta, do not go "open beta" until you are forced to. Talk to
 
 Consistent PMF surveying (regular pacing and measuring) throughout the pre-GA experience so you have data to reason about.
 
+Trying to build lots of plugins/integrations for 3P systems/tools is hard and doesn't scale well. You will ship a lot of v1's and never come back to them. Invest in the most critical apps that will actually get used. If you spend 2 eng time for 2 sprints on an app nobody uses for 12+ months just to potentially attract customers was it worth it? Name on the box helps a little but the story is stronger. Showcase the solution and it doesn't matter if you support their tool (yet).
+
 ## Launching a new SaaS product
 
 ### Before GA
