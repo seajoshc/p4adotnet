@@ -2,7 +2,7 @@
 
 ## Lessons learned
 
-Make it work, then make it right, then make it fast. The engineers you work with will thank you. 
+Make it work, then make it right, then make it fast. The engineers you work with will thank you.
 
 Ladder up: data -> insights -> automation.
 
@@ -21,11 +21,13 @@ Always be talkin to customers, duh.
 Instrument the shit out of your product with an analytics tool. Currently a huge fan of Amplitude.
 
 Find PMF by asking users How upset would you be if the product went away?
+
 - Very sad
 - Sad
 - Not sad at all
 
 Then measure
+
 - MAU / MAI, (Monthly actives over monthly instances aka tenants) - How many users per tenant shows adoption
 - Pay attention to Churn at W2, W3, W4
 - Have a funnel, know your funnel, analyze your funnel
@@ -41,3 +43,25 @@ Refine, refactor, invest deeper into every experience you build going forward. L
 Have a roadmap but be ready to shift/pivot when a killer idea or feature request from several customers (or let's be real one really large) comes in...
 
 Start focusing on completing journeys/jobs-to-be-done. Make sure the product tells a story.
+
+## Things to emulate or learn from
+
+### Articles and blog posts
+
+Building and running modern software is hard.
+
+- [DevOps is Bullshit](https://blog.massdriver.cloud/posts/devops-is-bullshit/)
+- [Who should write the Terraform?](https://zwischenzugs.com/2022/08/08/who-should-write-the-terraform/)
+- [Mind the platform execution gap](https://martinfowler.com/articles/platform-prerequisites.html)
+- [Gardening platforms](https://docs.google.com/presentation/d/1cY95dRixFho0pMIlrEFcGL_XKVy9vnE4NGOD6TQMj50/view#slide=id.p) - the format is really obnoxious but there is some decent nuggets in there
+- https://blog.jim-nielsen.com/2022/website-fidelity/
+
+### SDK, API, Dev Docs
+
+- https://news.ycombinator.com/item?id=32794330
+- https://tailwindcss.com/docs/installation
+- https://www.solidjs.com/tutorial/introduction_signals
+- https://www.postgresql.org/docs/current/index.html
+- https://docs.djangoproject.com/en/4.1/
+- https://learn.microsoft.com/en-us/dotnet/api/system.linq.enumerable.distinct?view=netcore-3.0
+- https://redis.io/commands/
