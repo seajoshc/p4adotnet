@@ -3,7 +3,7 @@
 See also [pumpkin bread](./pumpkin-bread.md)
 
 ## Ingredients
-- 1 stick of butter (1/2 cup)
+- 1 stick of softened butter (1/2 cup)
 - 2 cups of all purpose flour, you can also swap 1/2 cup or 1 cup whole wheat flour for a heartier loaf
 - 1/2 tsp salt
 - 1 1/2 tsp baking powder
