@@ -8,7 +8,7 @@ See also [pumpkin bread](./pumpkin-bread.md)
 - 1/2 tsp salt
 - 1 1/2 tsp baking powder
 - 1 cup dark brown sugar (white/granular is okay)
-- 3 big bananas, or 4 smaller to medium bananas, that are *very* ripe
+- 3 big bananas, or 4 smaller to medium bananas, that are *very* ripe and mash easily
 - 2 eggs
 - 1 tsp vanilla extract
 - 1 tsp nutmeg
@@ -16,17 +16,18 @@ See also [pumpkin bread](./pumpkin-bread.md)
 - 1/2 cup chopped walnuts
 
 ## Recipe
-1. Pre-heat oven to 350F
+1. Pre-heat oven to 375F
 1. Grease a loaf pan with butter, I recommend [one of these](https://www.amazon.com/gp/product/B0029JQEIC)
-1. Whisk together the flour, salt, baking powder, sugar, nutmeg, and cinnamon in a medium bowl
-1. Mash the bananas in a large bowl using a fork, potato masher, your hands, etc. until smooth
-1. Mix the butter into the bananas until the butter is all broken up into little bits and the mixtue is chunky but smooth
-1. Mix the eggs and vanilla into the bananas butter mixture until well combined
+1. Whisk together the flour, salt, baking powder, nutmeg, and cinnamon in a medium bowl
+1. Cream the butter and sugars together in a large bowl until light and fluffy
+1. Adds eggs one at a time
+1. Add vanilla
+1. Add bananas and mix until bananas are mostly mashed and just chunky bits remain
 1. Stir the dry ingredients in until just combined, do not over mix it will be chunky
 1. Gently fold in walnuts if you are using them
-1. Pour into loaf pan and bake 50-60 minutes until golden brown and toothpick comes out *almost* entirely clean
-1. Cool in pan on a wire rack for 15 minutes
+1. Pour into loaf pan (optional, sprinkle some brown sugar on top!) and bake 60 minutes or until golden brown and tester comes out *almost* entirely clean
+1. Cool in pan on a wire rack, or similar, for 15 minutes
 1. Then turn pan upside gently and release the loaf on top of a cutting board
-1. Flip it rightside up and serve warm or at room temperature
+1. Flip it right side up, it probably needs another 10-15min to cool/set completely in the middle
 
-Keep covered/sealed at room temperature
+Serve warm or at room temperature, keep covered/sealed at room temperature
