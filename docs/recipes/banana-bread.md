@@ -21,12 +21,12 @@ See also [pumpkin bread](./pumpkin-bread.md)
 1. Grease a loaf pan with butter, I recommend [one of these](https://www.amazon.com/gp/product/B0029JQEIC)
 1. Whisk together the flour, salt, baking powder, nutmeg, and cinnamon in a medium bowl
 1. Cream the butter and sugars together in a large bowl until light and fluffy
-1. Adds eggs one at a time
-1. Add vanilla
-1. Add bananas and mix until bananas are mostly mashed and just chunky bits remain
+1. Adds eggs one at a time, followed by vanilla, mixing on low speed
+1. Add bananas and mix on low until just chunky bits remain
 1. Stir the dry ingredients in until just combined, do not over mix it will be chunky
 1. Gently fold in walnuts if you are using them
-1. Pour into loaf pan (optional, sprinkle some brown sugar on top!) and bake 60 minutes or until golden brown and tester comes out *almost* entirely clean
+1. Pour into loaf pan (optional, sprinkle some brown sugar on top!) and bake 20 minutes
+1. Turn the oven down to 350F and bake another 40 minutes or until golden brown and tester comes out *almost* entirely clean
 1. Cool in pan on a wire rack, or similar, for 15 minutes
 1. Then turn pan upside gently and release the loaf on top of a cutting board
 1. Flip it right side up, it probably needs another 10-15min to cool/set completely in the middle
