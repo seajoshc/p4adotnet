@@ -7,13 +7,14 @@ See also [pumpkin bread](./pumpkin-bread.md)
 - 2 cups of all purpose flour, you can also swap 1/2 cup or 1 cup whole wheat flour for a heartier loaf
 - 1/2 tsp salt
 - 1 1/2 tsp baking powder
-- 1 cup dark brown sugar (white/granular is okay)
+- 1/2 cup dark brown sugar
+- 1/2 cup white sugar
 - 3 big bananas, or 4 smaller to medium bananas, that are *very* ripe and mash easily
 - 2 eggs
 - 1 tsp vanilla extract
 - 1 tsp nutmeg
 - 1 tsp cinnamon
-- 1/2 cup chopped walnuts
+- 1/2 cup chopped walnuts (optional)
 
 ## Recipe
 1. Pre-heat oven to 375F
