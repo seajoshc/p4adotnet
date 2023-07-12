@@ -31,4 +31,4 @@ See also [pumpkin bread](./pumpkin-bread.md)
 1. Then turn pan upside gently and release the loaf on top of a cutting board
 1. Flip it right side up, it probably needs another 10-15min to cool/set completely in the middle
 
-Serve warm or at room temperature, keep covered/sealed at room temperature
+Serve warm or at room temperature, keep covered/sealed at room temperature. Add sprinkles or chocolate chips inside for a fun twist.
