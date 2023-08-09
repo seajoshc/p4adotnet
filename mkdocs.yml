@@ -10,13 +10,29 @@ plugins:
   - search
 theme:
   name: material
+  font:
+    text: Ubuntu Mono
   favicon: images/user-astronaut-solid.svg
   icon:
     logo: fontawesome/solid/user-astronaut
   palette:
-    scheme: slate
-    primary: blue grey
-    accent: teal
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
     - navigation.instant
     - navigation.tracking
