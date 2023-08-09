@@ -11,7 +11,7 @@ plugins:
 theme:
   name: material
   font:
-    text: Ubuntu Mono
+    text: Red Hat Mono
   favicon: images/user-astronaut-solid.svg
   icon:
     logo: fontawesome/solid/user-astronaut
