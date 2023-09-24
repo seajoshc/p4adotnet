@@ -27,13 +27,17 @@ variable "az_names" {
 tfvars:
 aws_account = "xxx"
 aws_region = "us-west-2"
+dc = "foo"
 zones = ["a"]
-subnet = "foo"
+subnet = "bar"
 ```
 
-Locals can use expressions and resource arguments so they are dynamic. Used to do things like enforcement tag names or bucket names.
+Locals can use expressions and resource arguments so they are dynamic. Used in modules. Do things like enforcement of tag names or bucket names. Consider the local a constant to be relied on. Be aware of cloud provider character limits.
 
 ```
+locals{
+    bucket_name = "${local.company_name}-protected-${local.suffix}-${var.dc}"
+}
 
 ```
 
@@ -43,6 +47,18 @@ Do:
 - utilize env vars
 - use for locals de-hardcoding one-time names, DRY
 - keep things generic
+- leave logic to modules, KISS
+- avoid using locals outside of modules
+- pass outputs to modules using `data`` sources
 
+Don't:
+- use multiple locals blocks if not totally necessary
+- decentralize vars/tfvars
+- ignore env vars
 
-left off at 17:03
+Ugly:
+- Hardcoded variable values where not necessary
+
+# References
+- https://www.youtube.com/watch?v=U_CsR5ibrOI
+left off at 19:48
