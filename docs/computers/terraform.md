@@ -1,6 +1,6 @@
 # Terraform best practices
 
-Lock versions! Modules, providers, and Terraform itself. The devil you know is better than the devil you don't. Use either Docker `docker run -v $(pwd):/<dir name>/ -w /<dir name>/ --rm -it hashicorp/terraform:light <terraform command>` or `tfenv`. Use a shell alias/wrapper to make life easier for the version you standardize on.
+Lock versions! Modules, providers, and Terraform itself. The devil you know is better than the devil you don't. Use either Docker `docker run -v $(pwd):/<dir name>/ -w /<dir name>/ --rm -it hashicorp/terraform:light <terraform command>` or `tfenv`. Use a shell alias or bash wrapper to make life easier for the version you standardize on!
 
 Don't forget about .gitignore
 
