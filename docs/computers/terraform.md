@@ -135,9 +135,7 @@ Security issues and non-compliant configs if you don't have any practices enforc
 
 ## Structure
 
-todo
-
-Huge state files have a big blast radius, you want small state files. This is probably the most extreme:
+Huge state files have a big blast radius, you want small state files. Best:
 
 ```
 modules/
@@ -177,7 +175,7 @@ root-modules/
       us-west-2/
 ```
 
-Most should strive for:
+Good:
 ```
 root-modules/
   my-cool-service/
