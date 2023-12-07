@@ -206,3 +206,31 @@ func main() {
 
 
 ```
+
+### Send tokens to a channel
+
+Waiting for databases to come online for example.
+
+```go
+func getDatabasesChannel(numDBs int) chan struct{} {
+	ch := make(chan struct{})
+	go func() {
+		for i := 0; i < numDBs; i++ {
+			ch <- struct{}{} // send an empty struct, used as a "token"
+			fmt.Printf("Database %v is online\n", i+1)
+		}
+	}()
+	return ch
+}
+```
+
+Send an empty struct, `struct{}{}`, to a channel to be used as a "token".
+
+Then block and wait for a specific number of tokens in another function.
+
+```go
+	for i := 0; i < numDBs; i++ {
+		<-dbChan // unary operator pops off empty struct token from queue
+	}
+}
+```
