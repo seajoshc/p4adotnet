@@ -55,6 +55,7 @@ Building and running modern software is hard.
 - [Mind the platform execution gap](https://martinfowler.com/articles/platform-prerequisites.html)
 - [Gardening platforms](https://docs.google.com/presentation/d/1cY95dRixFho0pMIlrEFcGL_XKVy9vnE4NGOD6TQMj50/view#slide=id.p) - the format is really obnoxious but there is some decent nuggets in there
 - https://blog.jim-nielsen.com/2022/website-fidelity/
+- Video on moving fast from YouTube
 
 ### SDK, API, Dev Docs
 
