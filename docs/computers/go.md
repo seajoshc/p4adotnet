@@ -68,6 +68,8 @@ fmt.Println(lanesTruck.model)
 
 ## Working with JSON
 
+[AMAZING blog post](https://blog.boot.dev/golang/json-golang/), [mirror](https://gist.github.com/seajoshc/29ebbecaf25b08d2d4a6ace10bcd3e20)
+
 The `WebhookPayload` structure in the Go code represents the JSON payload that your webhook expects to receive. Let's break down the nested structure to understand how it correlates with your JSON format:
 
 1. **Overall Structure**: `WebhookPayload` is designed to match the top-level structure of your JSON payload. It contains two fields, `Component` and `Parameters`, each corresponding to a key in your JSON.
