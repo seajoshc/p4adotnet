@@ -1,5 +1,9 @@
 # Go cookbook
 
+## Organization
+
+Use [internal packages](https://dave.cheney.net/2019/10/06/use-internal-packages-to-reduce-your-public-api-surface).
+
 ## Structs
 
 ### Nested structs
@@ -67,6 +71,8 @@ fmt.Println(lanesTruck.model)
 ```
 
 ## Working with JSON
+
+https://mholt.github.io/json-to-go/
 
 [AMAZING blog post](https://blog.boot.dev/golang/json-golang/), [mirror](https://gist.github.com/seajoshc/29ebbecaf25b08d2d4a6ace10bcd3e20)
 
