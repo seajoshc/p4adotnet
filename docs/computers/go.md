@@ -1,8 +1,31 @@
 # Go cookbook
 
-## Organization
+## Web requests
 
-Use [internal packages](https://dave.cheney.net/2019/10/06/use-internal-packages-to-reduce-your-public-api-surface).
+Boilerplate and timesavers.
+
+```go
+package main
+
+import (
+	"net/http"
+	"time"
+)
+
+type Client struct {
+	httpClient http.Client
+}
+
+// build a re-usable client with some config e.g. timeout
+func NewClient() Client {
+	return Client{
+		httpClient: http.Client{
+			Timeout: time.Minute,
+		},
+	}
+}
+
+```
 
 ## Structs
 
@@ -71,10 +94,6 @@ fmt.Println(lanesTruck.model)
 ```
 
 ## Working with JSON
-
-https://mholt.github.io/json-to-go/
-
-[AMAZING blog post](https://blog.boot.dev/golang/json-golang/), [mirror](https://gist.github.com/seajoshc/29ebbecaf25b08d2d4a6ace10bcd3e20)
 
 The `WebhookPayload` structure in the Go code represents the JSON payload that your webhook expects to receive. Let's break down the nested structure to understand how it correlates with your JSON format:
 
