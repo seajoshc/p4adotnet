@@ -1,9 +1,10 @@
 # Pecan pie
+
 ## Ingredients
 
 - 1/3 cup butter, melted
 - 1 cup packed dark brown sugar
-- 3/4 dark corn syrup
+- 3/4 cup dark corn syrup
 - 1/2 teaspoon salt (optional if using salted butter)
 - 3 eggs
 - 1 teaspoon vanilla extract (optional)
