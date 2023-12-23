@@ -12,8 +12,8 @@ See also [pumpkin bread](./pumpkin-bread.md)
 - 3 big bananas, or 4 smaller to medium bananas, that are *very* ripe and mash easily
 - 2 eggs
 - 1 tsp vanilla extract
-- 1 tsp nutmeg
-- 1 tsp cinnamon
+- 3/4 tsp nutmeg
+- 3/4 tsp cinnamon
 - 1/2 cup chopped walnuts (optional)
 
 ## Recipe
