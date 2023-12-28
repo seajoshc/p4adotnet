@@ -1,5 +1,9 @@
 # AI/ML
 
+- [Andrew Ng ML course](https://www.deeplearning.ai/courses/machine-learning-specialization/)
+- [IBM Data Engineer certification](https://www.coursera.org/professional-certificates/ibm-data-engineer?utm_source%253DIBM%2526utm_medium%253Dinstitutions%2526utm_campaign%253DIBMBadge)
+- [MSFT Gen AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#%252F)
+
 - [AI for Everyone course](https://www.deeplearning.ai/courses/ai-for-everyone/)
 - [Practical Deep Learning for Coders](https://course.fast.ai/) and [the Jupyter notebook based book](https://nbviewer.org/github/fastai/fastbook/tree/master)
 - [Huggingface](https://huggingface.co/course/chapter1/1)
@@ -23,6 +27,9 @@ Weights are parameters
 - With a training loop is Input + Weights + "Loss" from previous training > Model > Output + Loss (now do it all again N times to solve any computable function!)
 
 ## Embeddings
+
+Credit and sources:
+- [Simon Willison's embeddings article](https://simonwillison.net/2023/Oct/23/embeddings/)
 
 Using an embeddings model, take content and turn it into a multidimensional array of floating point numbers. The length of the array is always the same regardless of the size of the content; the size is determined by the model used to create the embeddings.
 
