@@ -1,4 +1,4 @@
-# Learning AI/ML
+# AI/ML
 
 - [AI for Everyone course](https://www.deeplearning.ai/courses/ai-for-everyone/)
 - [Practical Deep Learning for Coders](https://course.fast.ai/) and [the Jupyter notebook based book](https://nbviewer.org/github/fastai/fastbook/tree/master)
@@ -6,7 +6,7 @@
 - [FastAPI Docker example](https://www.docker.com/blog/build-machine-learning-apps-with-hugging-faces-docker-spaces/)
 - https://karpathy.ai/zero-to-hero.html
 
-## Notes
+## General Notes
 
 Model is a neural network function.
 
@@ -16,8 +16,16 @@ Fine tuning is taking a trained model and training it further on your data.
 
 Learner is model + training data
 
-Weights are parameters (hmm followup on this)
+Weights are parameters
 
 - It used to be Input > Program > Output
 - Now its Input + Weights > Model > Output
 - With a training loop is Input + Weights + "Loss" from previous training > Model > Output + Loss (now do it all again N times to solve any computable function!)
+
+## Embeddings
+
+Using an embeddings model, take content and turn it into a multidimensional array of floating point numbers. The length of the array is always the same regardless of the size of the content; the size is determined by the model used to create the embeddings.
+
+Combine embeddings, or rather collections of, with a database and now you basically have semantic search.
+
+To use Retrieval Augmented Generation (RAG), you take an LLM plus your collections of embeddings and combined. When a request comes in, first "semantic search" for related content within the embeddings then you shove that content (paragraph, sentences, whatever) into the prompt so the LLM will use that when generating the response. Wow genius...
