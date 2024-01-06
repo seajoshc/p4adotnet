@@ -10,8 +10,8 @@ Ingredients:
 - 1 tsp of oregano (optional)
 - 1 tsp of garlic powder (optional)
 - 1 tbsp olive oil (plus extra for coating)
-- 1 tsp yeast (or you can use instant)
-- 3/4 cup warm water (about 110°F)
+- 1 tsp active dry yeast (or you can use instant)
+- 3/4 cup warm water (about 110°F, just not crazy hot or it will kill the yeast)
 
 Instructions:
 
@@ -19,7 +19,7 @@ Instructions:
 2. Mix Dry Ingredients: In a large bowl, mix together the flour, salt, oregano, and garlic powder (if using).
 3. Combine: Once the yeast mixture is ready, add it along with the olive oil to the flour mixture.
 4. Knead the Dough: On a lightly floured surface, knead the dough for about 10 minutes until it becomes smooth and elastic. This step is crucial for developing the gluten, which gives the dough its texture.
-5. Let it Rise: Place the dough in a lightly oiled bowl, cover with a cloth, and let it rise in a warm area for about 1 hour, or until it doubles in size.
+5. Let it Rise: Place the dough in a lightly oiled bowl, cover with a cloth, and let it rise in a warm area for at least 1 hour (2-3 is better if you have the time). It should at least double in size from when you placed it in the bowl.
 6. Punch Down & Shape: Once risen, punch down the dough to release air bubbles. Divide it into portions if you want smaller pizzas, and shape it into your desired size.
 7. Final Rise: Let the shaped dough rest for an additional 30 minutes.
 
