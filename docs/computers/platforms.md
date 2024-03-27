@@ -2,6 +2,9 @@
 
 As a product manager working on software products for a tech company, platforms are something I think about a lot.
 
+## Links
+- https://learn.microsoft.com/en-gb/platform-engineering/about/principles
+
 ## Mind the platform execution gap
 
 [Notes from this Martin Fowler article](https://martinfowler.com/articles/platform-prerequisites.html)
