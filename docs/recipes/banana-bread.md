@@ -9,7 +9,7 @@ See also [pumpkin bread](./pumpkin-bread.md)
 - 1 1/2 tsp baking powder
 - 1/2 cup dark brown sugar
 - 1/2 cup white sugar
-- 3 big bananas, or 4 smaller to medium bananas, that are *very* ripe and mash easily
+- 4 big bananas that are *very* ripe and mash easily
 - 2 eggs
 - 1 tsp vanilla extract
 - 3/4 tsp nutmeg
@@ -31,3 +31,7 @@ See also [pumpkin bread](./pumpkin-bread.md)
 1. Flip it right side up, try to be patient it probably needs at least another 15min to cool/set in the middle
 
 Serve warm or at room temperature, keep covered/sealed at room temperature. Add sprinkles or chocolate chips inside for a fun twist.
+
+Notes:
+- 4 large bananas works best after lots of experimentation :) But ultimately use what you have!
+- 1/2 tsp of nutmeg + cinnamon if you want more banana flavor to come out, or even omit entirely if you want.
