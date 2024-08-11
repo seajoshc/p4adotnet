@@ -26,8 +26,8 @@
 - Water taxi across the sound to downtown
 - [White Center bike playground](https://kingcountyparks.org/2016/10/03/bike-playground-dick-thurnau-memorial-park/) Dick Thornau Memorial Park
 - [Kelsey Creek Farm](https://bellevuewa.gov/city-government/departments/parks/community-centers/kelsey-creek-farm) in Bellevue, they have farm classes for the kids too!
--
 
 ## Snow
 
-- [Snow play parks](https://www.parks.wa.gov/647/Snow-Play-Sno-Parks), especially [Hyak sno-park](https://parks.wa.gov/find-sno-parks/hyak-sno-park) and [Asahel Curtis sno-park](https://www.wta.org/go-hiking/hikes/asahel-curtis-sno-park)- they all require a Discover Pass + [Sno-park day pass](https://epermits.parks.wa.gov/Store/SNO/SnoChoice.aspx)
+- [Snow play parks](https://www.parks.wa.gov/647/Snow-Play-Sno-Parks), especially [Hyak sno-park](https://parks.wa.gov/find-sno-parks/hyak-sno-park) and [Asahel Curtis sno-park](https://www.wta.org/go-hiking/hikes/asahel-curtis-sno-park)
+    - they all require a Discover Pass + [Sno-park day pass](https://epermits.parks.wa.gov/Store/SNO/SnoChoice.aspx)

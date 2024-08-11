@@ -32,6 +32,6 @@ See also [pumpkin bread](./pumpkin-bread.md)
 
 Serve warm or at room temperature, keep covered/sealed at room temperature. Add sprinkles or chocolate chips inside for a fun twist.
 
-Notes:
+## Notes
 - 4 large bananas works best after lots of experimentation :) But ultimately use what you have!
 - 1/2 tsp of nutmeg + cinnamon if you want more banana flavor to come out, or even omit entirely if you want.
