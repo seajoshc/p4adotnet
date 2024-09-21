@@ -2,23 +2,29 @@
 
 ## Boros Mice
 
-- 4 Cheeky House-Mouse (WOE) 7
-- 4 Flowerfoot Swordmaster (BLB) 14
-- 4 Heartfire Hero (BLB) 138
-- 4 Manifold Mouse (BLB) 143
-- 4 Emberheart Challenger (BLB) 133
-- 3 Mabel, Heir to Cragflame (BLB) 224
-- 4 Monstrous Rage (WOE) 142
-- 4 Might of the Meek (BLB) 144
-- 3 Mirran Banesplitter (MOM) 154
-- 2 War Squeak (BLB) 160
-- 4 Demonic Ruckus (OTJ) 120
-- 5 Plains (KTK) 250
-- 8 Mountain (KTK) 256
-- 4 Battlefield Forge (BRO) 257
-- 4 Inspiring Vantage (OTJ) 269
-- 2 Rockface Village (BLB) 259
-- 1 Cavern of Souls (LCI) 269
+Best: Diamond 4 Rank Sept 2024
+
+- 4 Cheeky House-Mouse
+- 4 Flowerfoot Swordmaster
+- 4 Heartfire Hero
+- 4 Manifold Mouse
+- 4 Emberheart Challenger
+- 3 Mabel, Heir to Cragflame
+- 4 Monstrous Rage
+- 4 Might of the Meek
+- 3 Mirran Banesplitter
+- 2 War Squeak
+- 4 Demonic Ruckus
+- 2 Plains
+- 7 Mountain
+- 4 Battlefield Forge
+- 4 Inspiring Vantage
+- 2 Rockface Village
+- 1 Cavern of Souls
 
 Sideboard:
-- 
+
+- 2 Get Lost
+- 2 Soul Partition
+- 4 Restless Bivouac
+- 2 Seedglaive Mentor (Flowerfoot, Mabel)
