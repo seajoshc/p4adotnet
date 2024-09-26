@@ -1,22 +1,10 @@
 # Product Management
 
-## Lessons learned
-
 Make it work, then make it right, then make it fast. The engineers you work with will thank you.
-
-Ladder up: data -> insights -> automation
-
-Gatekeep your alpha/beta, do not go "open beta" until you are forced to. Talk to all of your "closed beta" customers regularly, know them by name and keep refining. Let more customers in if you aren't getting the feedback you need OR if things are booming and you know you are on to something. But be judicious if you expand the cohort, you must keep talking to whoever you let in.
-
-Consistent PMF surveying (regular pacing and measuring) throughout the pre-GA experience so you have data to reason about.
-
-### On integrations with dev tools
-
-Trying to build lots of plugins/integrations for 3P developer systems/tools is hard and doesn't scale well. You will ship a lot of v1's and never come back to them if you try a "get names on the box" to attract customers approach. Invest in the most critical apps that will actually get used; build magic experiences for top requested integrations worth the most deals/seats. If you spend 2 eng time for 2 sprints on an app nobody uses for 12+ months just to potentially attract customers was it worth it? Name on the box helps much less compared to a strong "we do X,Y,Z better than all our competitors" pitch using just a few (or one!) really strong usecase.
 
 ## Launching a new SaaS product
 
-### Before GA
+Gatekeep your alpha/beta, do not go "open beta" until you are forced to. Talk to all of your "closed beta" customers regularly, know them by name and keep refining. Let more customers in if you aren't getting the feedback you need OR if things are booming and you know you are on to something. But be judicious if you expand the cohort, you must keep talking to whoever you let in.
 
 Always be talkin to customers, duh.
 
@@ -34,15 +22,21 @@ Then measure
 - Pay attention to Churn at W2, W3, W4
 - Have a funnel, know your funnel, analyze your funnel
 
+Refine, refactor, invest deeper into every experience you build going forward. Likely taking on a ton of work at this point and letting things bake and getting customer guidance is now critical.
+
+Have a 3-6 months roadmap and keep focusing, expand when you have clear signal for what's next AND your funnel is healthy at the top.
+
+Start focusing on completing journeys/jobs-to-be-done. Make sure the product tells a story. One really solid usecase with a clear "we do X better than A, B, C" story is worth WAY more than 10 half assed usecases. Caveat here is you can get away with half assed (at least for a few years) if your new product is being built inside an already very successful/large company but you will still enjoy much better success if you focus :) (speaking from experience building a new SaaS product for developers at Atlassian)
+
+### Developer Experience / Extensibility
+
 Think about extensibility and developer experience with your product from day 1. If you're building something SaaS chances are you'll want this at some point (e.g. integrations); doubly so if you're a product sold to devs/eng. APIs, SDKs, CLI tools, etc. get it out early and refine it openly.
 
 Carve out a DevEx for the path YOU WANT 3P developers to build towards. Figure out what that core experience is, the best way they can extend your platform, and hand hold them down it. Build your base.
 
-Refine, refactor, invest deeper into every experience you build going forward. Likely taking on a ton of work at this point and letting things bake and getting customer guidance is now critical.
+### On integrations with dev tools
 
-Have a roadmap but be ready to shift/pivot when a killer idea or feature request from several customers (or let's be real one really large) comes in.
-
-Start focusing on completing journeys/jobs-to-be-done. Make sure the product tells a story. One really solid usecase with a clear "we do X better than A, B, C" story is worth WAY more than 10 half assed usecases. Caveat here is you can get away with half assed (at least for a few years) if your new product is being built inside an already very successful/large company but you will still enjoy much better success if you focus :) (speaking from experience building a new SaaS product for developers at Atlassian)
+Trying to build lots of plugins/integrations for 3P developer systems/tools is hard and doesn't scale well. You will ship a lot of v1's and never come back to them if you try a "get names on the box" to attract customers approach. Invest in the most critical apps that will actually get used; build magic experiences for top requested integrations worth the most deals/seats. If you spend 2 eng time for 2 sprints on an app nobody uses for 12+ months just to potentially attract customers was it worth it? Name on the box helps much less compared to a strong "we do X,Y,Z better than all our competitors" pitch using just a few (or one!) really strong usecase.
 
 ## Things to emulate or learn from
 
