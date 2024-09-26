@@ -14,9 +14,11 @@
 - 1 cup milk
 - 2 cups dark chocolate chips
 
+(feeling funky? swap out some of the choc chips for white chocolate chips!)
+
 ## Instructions:
 
-1. Preheat your oven to 350°F (175°C). Grease a 9x13 inch rectangular sheet cake pan.
+1. Preheat your oven to 350°F. Grease a 9x13 inch rectangular sheet cake pan.
 
 2. In a medium bowl, whisk together the flour, baking soda, baking powder, and salt. Set aside.
 
@@ -28,8 +30,10 @@
 
 6. Fold in 1 1/2 cups of the dark chocolate chips, reserving the remaining 1/2 cup for topping.
 
+- If using white chocolate chips, or something else to jazz it up, toss in 1/2 cup of them here and then 1 cup of dark chocolate chips.
+
 7. Pour the batter into the prepared sheet cake pan, spreading it evenly. Sprinkle the remaining 1/2 cup of chocolate chips on top.
 
-8. Bake for 25-30 minutes, or until a toothpick inserted into the center comes out clean or with a few moist crumbs.
+8. Bake for 25-30 minutes, or until a toothpick inserted all the way to the bottom into the center comes out clean or with a few moist crumbs.
 
 9. Allow the cake to cool in the pan for about 15 minutes before serving.
