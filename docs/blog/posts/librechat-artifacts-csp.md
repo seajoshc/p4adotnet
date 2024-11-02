@@ -17,7 +17,7 @@ The fix was adding a new content security policy to my [Caddyfile](https://caddy
 Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; frame-ancestors 'self' your.domain; frame-src 'self' https://*.codesandbox.io"
 ```
 
-This appears to be a dependency of the [sandpack](https://sandpack.codesandbox.io/) library used by LibreChat to support Artifacts.
+This appears to be a dependency of the [sandpack](https://sandpack.codesandbox.io/) library used by LibreChat to support Artifacts. I sent a [PR](https://github.com/LibreChat-AI/librechat.ai/pull/158) to help others :thumbsup:
 
 My Full Caddyfile config for LibreChat:
 
