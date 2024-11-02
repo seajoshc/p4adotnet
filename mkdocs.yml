@@ -8,6 +8,7 @@ extra:
       link: https://linkedin.com/in/seajoshc
 plugins:
   - search
+  - blog
 theme:
   name: material
   font:
