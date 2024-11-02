@@ -1,3 +1,8 @@
+---
+date:
+  created: 2024-11-01
+---
+
 # LibreChat Artifacts Content Security Policy
 
 I remote host [LibreChat](https://github.com/danny-avila/LibreChat) on a [Hetzner](https://www.hetzner.com/cloud/) VPS and I was trying to use the [Artifacts](https://www.librechat.ai/docs/user_guides/artifacts) feature, but I kept getting an [error](https://chatgpt.com/share/6725a275-0934-8006-aca3-b2d44cb23d34) when loading HTML5 apps in the iframe.
