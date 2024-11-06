@@ -7,7 +7,7 @@ date:
 
 [This article was created out of a convo with Claude 3.5 Sonnet.](https://chat.p4a.net/share/I1qk40xJNgzt7bRMQX62g)
 
-Backups are crucial, but they need to be automated and reliable to be truly effective. In this guide, we'll set up a robust backup system using [restic](https://restic.net/) on Debian Linux 12. We'll configure it to back up Docker volumes (/var/lib/docker/volumes), home directories (/home), and system configuration files (/etc), with snapshots every 12 hours and a sensible retention policy. We'll use systemd to schedule our backups, easily audit backups, and manually run a backup job when desired.
+Backups are crucial, but they need to be automated and reliable to be truly effective. In this guide, we'll set up a robust backup system using [restic](https://restic.net/) on [Debian Linux 12](https://www.debian.org/). We'll configure it to back up Docker volumes (/var/lib/docker/volumes), home directories (/home), and system configuration files (/etc), with snapshots every 12 hours and a sensible retention policy. We'll use systemd to schedule our backups, easily audit backups, and manually run a backup job when desired.
 
 ## Prerequisites
 
