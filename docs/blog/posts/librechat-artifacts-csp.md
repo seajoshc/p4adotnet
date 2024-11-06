@@ -1,6 +1,11 @@
 ---
 date:
   created: 2024-11-01
+categories:
+  - computers
+tags:
+  - librechat
+  - sysadmin
 ---
 
 # LibreChat Artifacts Content Security Policy

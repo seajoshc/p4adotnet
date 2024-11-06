@@ -1,6 +1,10 @@
 ---
 date:
   created: 2024-11-05
+categories:
+  - computers
+tags:
+  - sysadmin
 ---
 
 # Setting Up Automated Backups with Restic on Debian Linux
