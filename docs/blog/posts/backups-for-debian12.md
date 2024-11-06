@@ -1,5 +1,4 @@
 ---
-draft: true
 date:
   created: 2024-11-05
 ---
