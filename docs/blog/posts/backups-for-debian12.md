@@ -47,7 +47,8 @@ source /etc/restic-env
 # Paths to backup
 BACKUP_PATHS="/var/lib/docker/volumes \
              /home \
-             /etc"
+             /etc \
+             /usr/local/etc"
 
 # Initialize the repository if it doesn't exist
 restic snapshots || restic init
