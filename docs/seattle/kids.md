@@ -18,6 +18,9 @@
 - YMCA Kid Zone
 - Climbing gym -> [Bouldering Project](https://boulderingproject.com/location/poplar/)
 - Seattle Aquarium
+- Zoomazium play area inside Woodland Park Zoo
+- Ice skating at (Kraken Community Iceplex)[https://www.krakencommunityiceplex.com/] in Northgate or any (Sno-King)[https://www.snokingicearenas.com/] location (Renton is good)
+- (Southgate Roller Rink)[http://www.southgaterollerrink.com/]
 
 ## Outdoors
 
@@ -35,8 +38,8 @@
 - Schmitz preserve, walk trail down to Alki and take the bus or free water taxi shuttle bus back up the hill
 - [Sprayparks and wading pools](https://seattle.gov/parks/recreation/outdoor-water-recreation/sprayparks-and-wading-pools)
 - Woodland Park Zoo
-
-## Snow
-
-- [Snow play parks](https://www.parks.wa.gov/647/Snow-Play-Sno-Parks), especially [Hyak sno-park](https://parks.wa.gov/find-sno-parks/hyak-sno-park) and [Asahel Curtis sno-park](https://www.wta.org/go-hiking/hikes/asahel-curtis-sno-park)
+- [Sno-parks](https://www.parks.wa.gov/647/Snow-Play-Sno-Parks) for playing in the snow and sledding, way cheaper than tubing at ski resorts
     - they all require a Discover Pass + [Sno-park day pass](https://epermits.parks.wa.gov/Store/SNO/SnoChoice.aspx)
+    - [Lake Wenatchee state park sno-park](https://parks.wa.gov/find-sno-parks/lake-wenatchee-sno-park) is the best one, only good if staying overnight in Leavenworth because it's so far though.
+    - [Hyak sno-park](https://parks.wa.gov/find-sno-parks/hyak-sno-park) is great but busiest (closest to Seattle), Lake Easton is good too and a couple exits further
+    - [Asahel Curtis sno-park](https://www.wta.org/go-hiking/hikes/asahel-curtis-sno-park)
