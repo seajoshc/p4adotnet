@@ -54,7 +54,7 @@ Track all the things, hold people accountable, make sure momentum is sustained
 
 Ask lots of questions, probe when someone raises a concern and make sure the details are captured and not hand wavy concerns or FUD
 
-# Setting up a TPM org
+## Setting up a TPM org
 
 Visibility across the org on priorities and roadmap. Keep teams organized, keep product honest. Help get frameworks in place.
 
@@ -82,7 +82,7 @@ Coaching, TPMs do lots of coaching.
 
 ## Non-functional requirements
 
-Big part of the job is picking apart the non-functional requirements and ensuring what is delivered can function and scale. 
+Big part of the job is picking apart the non-functional requirements and ensuring what is delivered can function and scale.
 
 tl;dr Fault tolerance, performance, & SLIs
 
